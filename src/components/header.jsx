@@ -4,12 +4,12 @@ import { Link as RouterLink } from "react-router-dom";
 import { useRef, useState } from "react";
 
 // Color Variables
-const HEADER_BG_COLOR = "gray.800";
+const HEADER_BG_COLOR = "red.600";
 const HEADER_TEXT_COLOR = "white";
-const LINK_HOVER_COLOR = "gray";
+const LINK_HOVER_COLOR = "black";
 
 // Website Name
-const LogoName = "Calucid Template";
+const LogoName = "A Huevo Tacos";
 
 // Page Links Configuration
 const PAGES = [

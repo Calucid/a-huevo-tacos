@@ -59,7 +59,7 @@ const Visit = () => {
             style={{ border: 0, borderRadius: "8px" }}
             loading="lazy"
             allowFullScreen
-            src="https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=365+W+Whitehall+St,+Allentown,+PA+18102"
+            src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCZfNxROLqjeHORHMSc28B1mvxbvKHlukU&q=365+W+Whitehall+St,+Allentown,+PA+18102"
           />
         </Box>
       </VStack>
